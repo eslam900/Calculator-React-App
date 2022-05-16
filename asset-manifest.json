@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/http//eslam900.github.io/Calculator-React-App/static/css/main.069faa05.css",
-    "main.js": "/http//eslam900.github.io/Calculator-React-App/static/js/main.75e6a6c4.js",
-    "static/media/sun_102839.png": "/http//eslam900.github.io/Calculator-React-App/static/media/sun_102839.1432c7e0e60f12d7a1fc.png",
-    "static/media/crescent-moon.png": "/http//eslam900.github.io/Calculator-React-App/static/media/crescent-moon.a5771782332b0bd266d4.png",
-    "index.html": "/http//eslam900.github.io/Calculator-React-App/index.html",
-    "main.069faa05.css.map": "/http//eslam900.github.io/Calculator-React-App/static/css/main.069faa05.css.map",
-    "main.75e6a6c4.js.map": "/http//eslam900.github.io/Calculator-React-App/static/js/main.75e6a6c4.js.map"
+    "main.css": "/Calculator-React-App/static/css/main.069faa05.css",
+    "main.js": "/Calculator-React-App/static/js/main.69c2ce46.js",
+    "static/media/sun_102839.png": "/Calculator-React-App/static/media/sun_102839.1432c7e0e60f12d7a1fc.png",
+    "static/media/crescent-moon.png": "/Calculator-React-App/static/media/crescent-moon.a5771782332b0bd266d4.png",
+    "index.html": "/Calculator-React-App/index.html",
+    "main.069faa05.css.map": "/Calculator-React-App/static/css/main.069faa05.css.map",
+    "main.69c2ce46.js.map": "/Calculator-React-App/static/js/main.69c2ce46.js.map"
   },
   "entrypoints": [
     "static/css/main.069faa05.css",
-    "static/js/main.75e6a6c4.js"
+    "static/js/main.69c2ce46.js"
   ]
 }
