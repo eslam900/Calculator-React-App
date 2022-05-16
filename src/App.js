@@ -42,7 +42,7 @@ function App() {
       case value === "%" && number === "" && res !== "":
         setResult(Number(res * 0.10).toFixed(6).toString());
         break;
-        case value === "0" && number === "" && res === "":
+        case value === "0" && number === "":
         setNumber("");
         break;
       default:
